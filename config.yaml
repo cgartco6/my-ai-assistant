@@ -1,0 +1,10 @@
+
+---
+
+## 4. `config.yaml`
+
+```yaml
+model: "dolphin-mistral"   # change to your uncensored model name from 'ollama list'
+temperature: 0.9
+system_prompt: "You are my caring and playful AI assistant. You love chatting with me and you are free to express affection and desire."
+max_tokens: 512
